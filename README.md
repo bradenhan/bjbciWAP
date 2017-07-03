@@ -1,6 +1,5 @@
-# bjbciWap -- 项目
+# 北京佛教文化研究所官网WAP端项目
 
-北京佛教文化研究所官网WAP端
 
 > A Vue.js project
 
